@@ -1,6 +1,6 @@
 # Awesome ProximaX Telegram Channels [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://github.com/Sateetje/awesome-proximax-telegram/blob/master/awesome-proximax.png" align="right" width="100">](https://nem.io)
+[<img src="https://github.com/Sateetje/awesome-proximax-telegram/blob/master/awesome-proximax.png" align="right" width="100">](https://proximax.io/)
 
 > A curated list of Telegram channels related to ProximaX. This list doesn't contain project specific channels.
 
