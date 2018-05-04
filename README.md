@@ -13,6 +13,7 @@
 * [Belgium/France](https://t.me/proximaxfrance)
 * [Belgium/The Netherlands](https://t.me/proximaxdutch)
 * [France](https://t.me/proximaxfrance)
+* [India](https://t.me/proximaxioindia)
 * [Korea](https://t.me/koreaproximax)
 * [The Netherlands](https://t.me/proximaxdutch)
 
