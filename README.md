@@ -16,6 +16,7 @@
 * [India](https://t.me/proximaxioindia)
 * [Korea](https://t.me/koreaproximax)
 * [The Netherlands](https://t.me/proximaxdutch)
+* [Ukraine](https://t.me/ProximaXua)
 
 ## Main
 * [Official](https://t.me/ProximaXio)
