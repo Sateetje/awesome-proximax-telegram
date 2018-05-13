@@ -17,8 +17,10 @@
 * [India](https://t.me/proximaxioindia)
 * [Italia](https://t.me/proximaxitalia)
 * [Korea](https://t.me/koreaproximax)
+* [Latin America](https://t.me/ProximaXioSpanish)
 * [Philippines](https://t.me/ProximaXioPhilippines)
 * [Russia](https://t.me/ProximaXru)
+* [Spain](https://t.me/ProximaXioSpanish)
 * [The Netherlands](https://t.me/proximaxdutch)
 * [Ukraine](https://t.me/ProximaXua)
 
