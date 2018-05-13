@@ -12,6 +12,7 @@
 ## Countries
 * [Belgium/France](https://t.me/proximaxfrance)
 * [Belgium/The Netherlands](https://t.me/proximaxdutch)
+* [China](https://t.me/ProximaXioChina)
 * [France](https://t.me/proximaxfrance)
 * [India](https://t.me/proximaxioindia)
 * [Italia](https://t.me/proximaxitalia)
