@@ -16,6 +16,7 @@
 * [France](https://t.me/proximaxfrance)
 * [India](https://t.me/proximaxioindia)
 * [Italia](https://t.me/proximaxitalia)
+* [Japan](https://t.me/ProximaXioJapan)
 * [Korea](https://t.me/koreaproximax)
 * [Latin America](https://t.me/ProximaXioSpanish)
 * [Philippines](https://t.me/ProximaXioPhilippines)
@@ -23,6 +24,7 @@
 * [Spain](https://t.me/ProximaXioSpanish)
 * [The Netherlands](https://t.me/proximaxdutch)
 * [Ukraine](https://t.me/ProximaXua)
+* [Vietnam](https://t.me/ProximaXioVietnam)
 
 ## Main
 * [Official](https://t.me/ProximaXio)
