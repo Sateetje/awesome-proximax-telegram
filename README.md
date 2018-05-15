@@ -28,6 +28,7 @@
 * [Switzerland](https://t.me/proximaxiogerman)
 * [The Netherlands](https://t.me/proximaxdutch)
 * [Ukraine](https://t.me/proximaxua)
+* [USA](https://t.me/proximaxiousa)
 * [Vietnam](https://t.me/proximaxiovietnam)
 
 ## Main
