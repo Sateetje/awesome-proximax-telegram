@@ -10,6 +10,7 @@
 * [Technical](#technical)
 
 ## Countries
+* [Australia](https://t.me/proximaxioaustralia)
 * [Austria](https://t.me/proximaxiogerman)
 * [Belgium - Dutch](https://t.me/proximaxdutch)
 * [Belgium - French](https://t.me/proximaxfrance)
@@ -34,6 +35,7 @@
 * [Vietnam](https://t.me/proximaxiovietnam)
 
 ## Main
+* [News](https://t.me/proximaxionews)
 * [Official](https://t.me/proximaxio)
 
 ## Technical
