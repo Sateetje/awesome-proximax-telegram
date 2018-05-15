@@ -37,8 +37,9 @@
 * [Vietnam](https://t.me/proximaxiovietnam)
 
 ## Main
+* [Fun/Speculation](https://t.me/proximaxiowakanda)
+* [Main](https://t.me/proximaxio)
 * [News](https://t.me/proximaxionews)
-* [Official](https://t.me/proximaxio)
 
 ## Technical
 * [Developers](https://t.me/proximax_devs)
