@@ -28,6 +28,7 @@
 * [Latin America](https://t.me/proximaxiolatinamerica)
 * [Philippines](https://t.me/proximaxiophilippines)
 * [Russia](https://t.me/proximaxru)
+* [Singapore](https://t.me/proximaxiosingapore)
 * [Slovakia](https://t.me/proximaxioczechslovakia)
 * [Spain](https://t.me/proximaxiospain)
 * [Switzerland](https://t.me/proximaxiogerman)
