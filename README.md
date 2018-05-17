@@ -26,6 +26,7 @@
 * [Japan](https://t.me/proximaxiojapan)
 * [Korea](https://t.me/koreaproximax)
 * [Latin America](https://t.me/proximaxiolatinamerica)
+* [Malaysia](t.me/proximaxiomalaysia)
 * [Middle East](https://t.me/proximaxiomiddleeast)
 * [Philippines](https://t.me/proximaxiophilippines)
 * [Russia](https://t.me/proximaxru)
