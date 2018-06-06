@@ -21,6 +21,7 @@
 * [Czech Republic](https://t.me/proximaxioczechslovakia)
 * [France](https://t.me/proximaxfrance)
 * [Germany](https://t.me/proximaxiogerman)
+* [Hong Kong](https://t.me/ProximaXioHK)
 * [India](https://t.me/proximaxioindia)
 * [Italia](https://t.me/proximaxitalia)
 * [Japan](https://t.me/proximaxiojapan)
