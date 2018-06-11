@@ -12,6 +12,7 @@
 ## Countries
 * [Australia](https://t.me/proximaxioaustralia)
 * [Austria](https://t.me/proximaxiogerman)
+* [Belarus](https://t.me/proximaxby)
 * [Belgium - Dutch](https://t.me/proximaxdutch)
 * [Belgium - French](https://t.me/proximaxfrance)
 * [Belgium - German](https://t.me/proximaxiogerman)
