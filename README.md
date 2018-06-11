@@ -34,6 +34,7 @@
 * [Russia](https://t.me/proximaxru)
 * [Singapore](https://t.me/proximaxiosingapore)
 * [Slovakia](https://t.me/proximaxioczechslovakia)
+* [South Africa](https://t.me/proximaxiosouthafrica)
 * [Spain](https://t.me/proximaxiospain)
 * [Switzerland](https://t.me/proximaxiogerman)
 * [Thailand](https://t.me/proximaxiothailand)
