@@ -30,6 +30,7 @@
 * [Latin America](https://t.me/proximaxiolatinamerica)
 * [Malaysia](t.me/proximaxiomalaysia)
 * [Middle East](https://t.me/proximaxiomiddleeast)
+* [New Zealand](https://t.me/proximaxnewzealand)
 * [Philippines](https://t.me/proximaxiophilippines)
 * [Russia](https://t.me/proximaxru)
 * [Singapore](https://t.me/proximaxiosingapore)
