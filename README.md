@@ -16,6 +16,7 @@
 * [Belgium - Dutch](https://t.me/proximaxdutch)
 * [Belgium - French](https://t.me/proximaxfrance)
 * [Belgium - German](https://t.me/proximaxiogerman)
+* [Brazil](https://t.me/proximaxiobrazil)
 * [Canada](https://t.me/proximaxiocanada)
 * [Chile](https://t.me/proximaxiochile)
 * [China](https://t.me/proximaxiochina)
