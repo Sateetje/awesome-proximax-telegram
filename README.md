@@ -27,6 +27,7 @@
 * [India](https://t.me/proximaxioindia)
 * [Italia](https://t.me/proximaxitalia)
 * [Japan](https://t.me/proximaxiojapan)
+* [Kenya](https://t.me/proximaxkenya)
 * [Korea](https://t.me/koreaproximax)
 * [Latin America](https://t.me/proximaxiolatinamerica)
 * [Malaysia](t.me/proximaxiomalaysia)
