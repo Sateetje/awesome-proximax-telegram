@@ -50,7 +50,7 @@
 * [Main](https://t.me/proximaxio)
 * [News](https://t.me/proximaxionews)
 * [Off-topic](https://t.me/proximaxofftopic)
-* [Trades](https://t.me/proximaxtrades)So:
+* [Trades](https://t.me/proximaxiotrades)
 
 ## Technical
 * [Developers](https://t.me/proximax_devs)
