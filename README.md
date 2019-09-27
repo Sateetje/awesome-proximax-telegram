@@ -12,7 +12,6 @@
 ## Countries
 * [Australia](https://t.me/proximaxioaustralia)
 * [Austria](https://t.me/proximaxiogerman)
-* [Belarus](https://t.me/proximaxby)
 * [Belgium - Dutch](https://t.me/proximaxdutch)
 * [Belgium - French](https://t.me/proximaxfrance)
 * [Belgium - German](https://t.me/proximaxiogerman)
@@ -51,7 +50,7 @@
 * [Main](https://t.me/proximaxio)
 * [News](https://t.me/proximaxionews)
 * [Off-topic](https://t.me/proximaxofftopic)
-* [Trades](https://t.me/proximaxtrades)
+* [Trades](https://t.me/proximaxtrades)So:
 
 ## Technical
 * [Developers](https://t.me/proximax_devs)
