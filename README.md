@@ -34,7 +34,7 @@
 * [Middle East](https://t.me/proximaxiomiddleeast)
 * [New Zealand](https://t.me/proximaxnewzealand)
 * [Philippines](https://t.me/proximaxiophilippines)
-* [Russia](https://t.me/proximaxru)
+* [Russia](https://t.me/proximaxrussia)
 * [Singapore](https://t.me/proximaxiosingapore)
 * [Slovakia](https://t.me/proximaxioczechslovakia)
 * [South Africa](https://t.me/proximaxiosouthafrica)
@@ -43,17 +43,19 @@
 * [Thailand](https://t.me/proximaxiothailand)
 * [The Netherlands](https://t.me/proximaxdutch)
 * [UK](https://t.me/proximaxiouk)
-* [Ukraine](https://t.me/proximaxua)
+* [Ukraine](https://t.me/proximaxukraine)
 * [USA](https://t.me/proximaxiousa)
 * [Vietnam](https://t.me/proximaxiovietnam)
 
 ## Main
-* [Fun/Speculation](https://t.me/proximaxiowakanda)
 * [Main](https://t.me/proximaxio)
 * [News](https://t.me/proximaxionews)
+* [Off-topic](https://t.me/proximaxofftopic)
+* [Trades](https://t.me/proximaxtrades)
 
 ## Technical
 * [Developers](https://t.me/proximax_devs)
+* [Helpdesk](https://t.me/proximaxhelpdesk)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/Sateetje/awesome-proximax-telegram/blob/master/contributing.md) first.
